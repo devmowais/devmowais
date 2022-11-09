@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="" target="blank"><img align="center" src="https://www.canva.com/design/DAFRehi7xl4/watch"/></a>
+<a href="" target="blank"><img align="center" src="https://github.com/devmowais/devmowais/blob/main/img.gif"/></a>
