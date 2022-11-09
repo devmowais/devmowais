@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **devmowais/devmowais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,19 @@ Here are some ideas to get you started:
 -->
 
 <a href="" target="blank"><img align="center" src="https://github.com/devmowais/devmowais/blob/main/img.gif"/></a>
+
+I'm a self-taught passionate Web Developer from Pakistan 🇵🇰
+
+#### About me: 
+⇒ 📖 I am learning and Polishing my React.js and Solidity skills.
+
+⇒ 📈 Understanding Blockchain.
+
+⇒ 💼 PIAIC and IEC student.
+
+⇒ ❤️ I love writing JavaScript, and experiments new things.
+
+⇒ 💬 Ask me about <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> [here](https://github.com/devmowais/devmowais/issues)
+
+
+
