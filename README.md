@@ -34,6 +34,6 @@ I'm a self-taught passionate Web Developer from Pakistan 🇵🇰
 
 ⇒ 💬 Ask me about <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> [here](https://github.com/devmowais/devmowais/issues)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmowais&show_icons=true&hide=contribs,prs&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmowais&show_icons=true&count_private=true&hide=contribs,prs&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmowais&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
